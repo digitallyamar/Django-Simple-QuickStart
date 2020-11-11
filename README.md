@@ -1,5 +1,7 @@
 # Django-Simple-QuickStart
 
+A simple Django project without creating any app within it. It uses the default SQLite DB for storing data.
+
 ## How to use this repo?
 
 Step 1: Clone the repo:
